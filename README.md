@@ -5,4 +5,5 @@ for Apache/Tomcat based web application.
 
 # general
 
-Use templates to define and operationalize creating a docker application. samples for apache and tomcat.
+Use templates to define and operationalize creating a docker application. Templated Developement using the
+the way Docker Build works.
