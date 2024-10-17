@@ -1,7 +1,8 @@
 # containerize-docker-templates
 
-divide and conquer containerization using docker. sample templates for apache and tomcat.
+Divide and Conquer containerization using docker. Containerize Docker Template gives templated development 
+for Apache/Tomcat based web application.
 
 # general
 
-use templates to define and operationalize creating a docker application. samples for apache and tomcat.
+Use templates to define and operationalize creating a docker application. samples for apache and tomcat.
