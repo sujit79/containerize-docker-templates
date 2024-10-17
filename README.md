@@ -1,4 +1,4 @@
-# containeize-docker-templates
+# containerize-docker-templates
 
 divide and conquer containerization using docker. sample templates for apache and tomcat.
 
